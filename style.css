@@ -23,8 +23,6 @@ main {
 section {
     margin: 1rem 1rem;
     padding: 2rem;
-    background-color: #fff;
-    box-shadow: 0 0 10px #719ece;
     border-radius: 5px;
 }
 
@@ -43,6 +41,7 @@ section {
 
 #header h2 {
     padding-bottom: 1rem;
+    color: #219ebc;
 }
 
 #header img {
@@ -63,8 +62,8 @@ ul li {
     padding: 0.5rem;
 }
 
-h2 {
-    color: #219ebc;
+h3 {
+    color: #000;
 }
 
 footer {
@@ -80,7 +79,6 @@ img {
 
 table,td {
 border: 1px solid #333;
-background-color: yellow;
 padding:5px;
 
 }
